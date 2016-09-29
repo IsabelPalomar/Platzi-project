@@ -1,0 +1,32 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.platzi.platzigram.view.fragment.NewPostFragment">
+
+    <include layout="@layout/actionbar_toolbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivPicture"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:scaleType="centerCrop"
+            android:background="@color/backgroundtext_card"/>
+
+        <Button
+            android:id="@+id/btnTakePicture"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="@string/tomar_foto"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

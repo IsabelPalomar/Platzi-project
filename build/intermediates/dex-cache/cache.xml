@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.0.0_fc95a1a96722e8e2078147b1e1605fb6ffdada6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_c60466c6ba7e6488e0f66f015d0f67266af51fd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_5f78ff71c6ca578094d987bc65c8cf467b051446/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_8dd3b37d29c0339225e44fb8ac4fd33bae772f3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_ecc20cb9995e68e9e4cfc028070f435b53f7f7ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3277b8e0f8ccf08d9136b10989f5e63dc476cc51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-module-9.0.0_6dae2ae2d13b2e4ef6c3384527f4cecc9162dcbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_bd1b90e623f8de806b4c47d6fe559853f046f533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/picasso-2.5.2_03c0f08ce6883352042be8575b93d826c761a7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-customtabs-23.4.0_95ed4d27287b1407385563c30823e8991e24d071.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df6791bb4f5402ed138d3dd1385f8e2bc3ac8728">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.0_cbd9de2f4ae5c558c324c5c3c711cf0b19b4f4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-9.0.0_5d1081175d15cea1e0c0bb3e4369f91992110391.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_20c7687e0cd7a43cd8bd401339069075932d3be4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.0.0_b36a036007f8d1d6942873bb35514e57dda195b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/converter-gson-2.1.0_99319d214fb7b1e5ef7610f77b4097b827c5ed09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_20cbc4f0330f87fecb984370f60a540fd62f2a27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_63ddf1ae2c629c835831b865f0c82d5d7326bb89/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_25fd3fd1e2ad9489fca607ae7eeedaa9d17022af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5b1d4bbcfa4b5350ff5b2a6cb54f0783bd43af93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c8248908f7b620857ad3d75059256fc4984320be">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b569d1815061d2d39589e66ee92f6a79aa0d77ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_70257a27014fc264805f30ff7aa011664ed5d715/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0_45ecd1d0bd10c7b555925d3d6356c196f2db84d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-9.0.0_fd0ba202295f969b7642938c08a62342c9403430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_70257a27014fc264805f30ff7aa011664ed5d715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_d57ac36d58a485d60d26556f25fd78f6bf721987.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_229413927be6de990d6ccd3d06e15273499a6542/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.2.1_c4618b8fb7346c34ac4108a16e1f429fb8d98c8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_8f10296aba6ab9fd495bb9889d12112a5f7ebd0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.zoonref/simple-view-behavior/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.zoonref-simple-view-behavior-1.0_0137cb76df0a1e1fed1eb7ec0a587fc5094918b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a9b8a07f5c1dd25b63e0a2e78da2387a1cec2871/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/de.hdodenhof-circleimageview-2.1.0_69ee5c9d990067ebd2d8afb39d92fe33b8c3e54b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_11de1b5733ac2a171dd133e2e5541b4a7328033c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_1dd16c2e97e0669c619a52deabf8db0815f8b677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_46df99ba35ef464c3b8fb0da668cf59884d2eaca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/okio-1.8.0_7528b69e8a6c073e1132cc00aad20776fb3cdde0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_5c32da2e5a0387c64f63ffbe9d9454584bf41319.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_98c8908d1e07dfa4588955172c754d7b69566137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ad67bf8592d057da002fc86b2492a9d986a1e335/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-connection-9.0.0_51e10bee5e2aa0034e29de7e2d3c1b66437b40cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_d6a7fffee5eada65876137d73dd91c581cb6cab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_7d22eeea34203ef15beb22cf042a77e654ede8c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_6fd12476c0d3ec2e84b48ad0f78622ebbeef9958.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_9872bcd62e2d0fbebd3aff7a2b40035d23acefa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_8cdc329c79a7c4bb0e2bbb292a2dc3d6583d4282/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_845f73bbeea94b4b14e89617855814e275058296.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_fc95a1a96722e8e2078147b1e1605fb6ffdada6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_a8f90bacc0bc6cc811927d5f93325ff7517175da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-common-9.0.0_ecc20cb9995e68e9e4cfc028070f435b53f7f7ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_5f78ff71c6ca578094d987bc65c8cf467b051446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_20c7687e0cd7a43cd8bd401339069075932d3be4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_5d1081175d15cea1e0c0bb3e4369f91992110391/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.0.0_c60466c6ba7e6488e0f66f015d0f67266af51fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df6791bb4f5402ed138d3dd1385f8e2bc3ac8728">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.16.0_cbd9de2f4ae5c558c324c5c3c711cf0b19b4f4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_a9b8a07f5c1dd25b63e0a2e78da2387a1cec2871.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_95ed4d27287b1407385563c30823e8991e24d071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_b36a036007f8d1d6942873bb35514e57dda195b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_47acd1da3c6db5c0f51851599efdce2ca4f0e725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_6dae2ae2d13b2e4ef6c3384527f4cecc9162dcbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_bd1b90e623f8de806b4c47d6fe559853f046f533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_03c0f08ce6883352042be8575b93d826c761a7d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_5b1d4bbcfa4b5350ff5b2a6cb54f0783bd43af93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_99319d214fb7b1e5ef7610f77b4097b827c5ed09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_20cbc4f0330f87fecb984370f60a540fd62f2a27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_3277b8e0f8ccf08d9136b10989f5e63dc476cc51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_25fd3fd1e2ad9489fca607ae7eeedaa9d17022af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-9.0.0_63ddf1ae2c629c835831b865f0c82d5d7326bb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_229413927be6de990d6ccd3d06e15273499a6542.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_c4618b8fb7346c34ac4108a16e1f429fb8d98c8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.0.0_9872bcd62e2d0fbebd3aff7a2b40035d23acefa8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_45ecd1d0bd10c7b555925d3d6356c196f2db84d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.roughike-bottom-bar-2.0.2_47acd1da3c6db5c0f51851599efdce2ca4f0e725.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_11de1b5733ac2a171dd133e2e5541b4a7328033c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d57ac36d58a485d60d26556f25fd78f6bf721987/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.0.0_8f10296aba6ab9fd495bb9889d12112a5f7ebd0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_7528b69e8a6c073e1132cc00aad20776fb3cdde0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_69ee5c9d990067ebd2d8afb39d92fe33b8c3e54b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.zoonref/simple-view-behavior/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zoonref-simple-view-behavior-1.0_0137cb76df0a1e1fed1eb7ec0a587fc5094918b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_fd0ba202295f969b7642938c08a62342c9403430/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_ad67bf8592d057da002fc86b2492a9d986a1e335.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5c32da2e5a0387c64f63ffbe9d9454584bf41319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb2a9b90f2dccaed4cc75aecbea5d2ed9328b484">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c284738db8ba9320853ddd3da2bbac4ec04e183/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.0.0_1dd16c2e97e0669c619a52deabf8db0815f8b677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_46df99ba35ef464c3b8fb0da668cf59884d2eaca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_98c8908d1e07dfa4588955172c754d7b69566137.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_845f73bbeea94b4b14e89617855814e275058296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8dd3b37d29c0339225e44fb8ac4fd33bae772f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.0.0_8cdc329c79a7c4bb0e2bbb292a2dc3d6583d4282.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_6fd12476c0d3ec2e84b48ad0f78622ebbeef9958/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/gson-2.7_a8f90bacc0bc6cc811927d5f93325ff7517175da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-common-9.0.0_7d22eeea34203ef15beb22cf042a77e654ede8c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_51e10bee5e2aa0034e29de7e2d3c1b66437b40cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/lucy/Documents/Git/Platzigram/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_d6a7fffee5eada65876137d73dd91c581cb6cab0.jar" />
+    </item>
+
+</items>
