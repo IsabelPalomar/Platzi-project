@@ -1,4 +1,4 @@
-package com.platzi.platzigram.view.fragment;
+package com.platzi.platzigram.posts.ui;
 
 
 
@@ -23,8 +23,10 @@ import com.platzi.platzigram.api.PlatzigramFirebaseService;
 import com.platzi.platzigram.api.PostResponse;
 import com.platzi.platzigram.model.Picture;
 import com.platzi.platzigram.model.Post;
+import com.platzi.platzigram.view.fragment.NewPostFragment;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -34,16 +36,18 @@ import retrofit2.Response;
  * A simple {@link Fragment} subclass.
  *
  */
-public class HomeFragment extends Fragment {
+public class HomeFragment extends Fragment implements PostsView {
 
     RecyclerView picturesRecycler;
     LinearLayoutManager linearLayoutManager;
     ArrayList<Post> posts;
     PostAdapterRecyclerView postAdapterRecyclerView;
+    PostPresenterImpl postPresenter;
 
     public HomeFragment() {
         // Required empty public constructor
     }
+                            
 
 
     @Override
@@ -54,7 +58,8 @@ public class HomeFragment extends Fragment {
         showToolbar(getResources().getString(R.string.tab_home), false, view);
 
         posts = new ArrayList<>();
-        populateData();
+
+        postPresenter = new PostPresenterImpl(this);
 
         picturesRecycler = (RecyclerView) view.findViewById(R.id.pictureRecycler);
 
@@ -72,13 +77,11 @@ public class HomeFragment extends Fragment {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                NewPostFragment newPostFragment = new NewPostFragment();
-                getActivity().getSupportFragmentManager().beginTransaction()
-                        .replace(R.id.container, newPostFragment)
-                        .addToBackStack(null)
-                        .commit();
+                showAddNewPostView();
             }
         });
+
+        postPresenter.loadPosts();
 
         return view;
     }
@@ -86,34 +89,9 @@ public class HomeFragment extends Fragment {
     @Override
     public void onResume() {
         super.onResume();
-        populateData();
+        postPresenter.loadPosts();
     }
 
-    private void populateData() {
-
-        PlatzigramFirebaseService service = (new PlatzigramClient()).getService();
-
-        Call<PostResponse> postListCall = service.getPostList();
-
-        postListCall.enqueue(new Callback<PostResponse>() {
-            @Override
-            public void onResponse(Call<PostResponse> call, Response<PostResponse> response) {
-                if (response.isSuccessful()){
-                    PostResponse result = response.body();
-                    posts.clear();
-                    posts.addAll(result.getPostList());
-                    postAdapterRecyclerView.notifyDataSetChanged();
-                }
-            }
-
-            @Override
-            public void onFailure(Call<PostResponse> call, Throwable t) {
-
-            }
-        });
-
-
-    }
 
     public ArrayList<Picture> buidPictures(){
         ArrayList<Picture> pictures = new ArrayList<>();
@@ -132,4 +110,20 @@ public class HomeFragment extends Fragment {
 
     }
 
+    @Override
+    public void showPosts(List<Post> postsList) {
+        posts.clear();
+        posts.addAll(postsList);
+        postAdapterRecyclerView.notifyDataSetChanged();
+
+    }
+
+    @Override
+    public void showAddNewPostView() {
+        NewPostFragment newPostFragment = new NewPostFragment();
+        getActivity().getSupportFragmentManager().beginTransaction()
+                .replace(R.id.container, newPostFragment)
+                .addToBackStack(null)
+                .commit();
+    }
 }

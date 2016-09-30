@@ -49,7 +49,7 @@
                     android:id="@+id/firstWord"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/firstword_card"
+                    android:text=""
                     android:textColor="@android:color/white"
                     android:textSize="@dimen/firstword_textsize_card"
                     />

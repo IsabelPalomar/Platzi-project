@@ -1,6 +1,7 @@
 package com.platzi.platzigram;
 
 import android.app.Application;
+import android.content.Context;
 
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
@@ -19,6 +20,8 @@ public class PlatzigramApplication extends Application{
     StorageReference storageReference;
     DatabaseReference postReference;
 
+    Context context;
+
     @Override
     public void onCreate() {
         super.onCreate();
@@ -34,6 +37,8 @@ public class PlatzigramApplication extends Application{
 
         postReference = firebaseDatabase.getReference(Constants.FIREBASE_DATABASE_LOCATION_POST);
 
+        this.context = this;
+
     }
 
     public StorageReference getStorageReference(){
@@ -42,5 +47,8 @@ public class PlatzigramApplication extends Application{
 
     public DatabaseReference getPostReference(){
         return postReference;
+    }
+    public Context getContext(){
+        return context;
     }
 }
